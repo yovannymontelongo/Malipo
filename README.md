@@ -1,14 +1,14 @@
 # Malipo
 An awesome Cydia tweak that allows you to change your charge sounds with ease! 
 "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life." - John 3:16
-Comes with many sounds! and more sounds can be downloaded from [Packix] (https://repo.packix.com)
+Comes with many sounds! and more sounds can be downloaded from [Packix](https://repo.packix.com)
 I just wanted to open source an awesome tweak of mine!
 
 This works with iOS 10 - iOS 11.4 beta 3
 
 # Get in On Packix!
 
-[Malipo] (https://repo.packix.com/package/com.ikilledappl3.malipo/) - Download this free tweak!
+[Malipo](https://repo.packix.com/package/com.ikilledappl3.malipo/) - Download this free tweak!
 
 ## Built With
 
